@@ -15,4 +15,8 @@ Our project can give an idea to coders about the uses or what are the things a p
 In future, this website can give more suggestions of popular websites and could become a popular ‘go to website’ for programmers to find articles and other materials suitable for them. This could save the time of programmers to a great extent and help them become more productive. This website can later include a backend thereby helping signed-in users to get personalized contents curated to their needs, they could also suggest some awesome resources they find to the website authors so that it can be included on the website.
 
 ### what we learned
-Bootstrap, CSS properties, Time Management, Teamwork, Work Distribution
+* Bootstrap
+* CSS properties
+* Time Management
+* Teamwork
+* Work Distribution
